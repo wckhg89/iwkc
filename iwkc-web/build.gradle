@@ -1,0 +1,4 @@
+dependencies {
+    compile(project(':iwkc-domain'))
+    compile('org.springframework.boot:spring-boot-starter-freemarker')
+}

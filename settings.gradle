@@ -1,0 +1,5 @@
+rootProject.name = 'iwkc'
+
+include 'iwkc-web'
+include 'iwkc-api'
+include 'iwkc-domain'

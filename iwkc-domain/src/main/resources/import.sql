@@ -1,0 +1,1 @@
+INSERT INTO user (user_seq, user_name) VALUES (1, 'guppy')
