@@ -1,0 +1,14 @@
+bootJar {
+    enabled = false
+}
+
+jar {
+    enabled = true
+}
+
+dependencies {
+    compile "org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:2.0.1.RELEASE"
+    compile group: 'org.springframework.security.oauth', name: 'spring-security-oauth2', version: '2.2.1.RELEASE'
+//    compile('org.springframework.session:spring-session-data-redis')
+//    compile("com.github.kstyrc:embedded-redis:0.6")
+}

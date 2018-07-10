@@ -1,4 +1,5 @@
 dependencies {
     compile(project(':iwkc-domain'))
+    compile(project(':iwkc-oauth'))
     compile('org.springframework.boot:spring-boot-starter-freemarker')
 }
