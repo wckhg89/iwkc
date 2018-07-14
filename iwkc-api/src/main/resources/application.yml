@@ -1,0 +1,8 @@
+#iwkc:
+#  rest:
+#    config:
+#      read-time-out: 1000
+#      connection-time-out: 1000
+#      max-connection-per-route: 1000
+#      max-connection-pool: 1000
+

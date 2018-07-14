@@ -1,4 +1,4 @@
-package com.guppy.web;
+package com.guppy.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
